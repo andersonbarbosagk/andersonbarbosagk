@@ -4,7 +4,7 @@ Sou estudante de Ciências da Computação e Técnico em Eletrônica. Estudo des
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" 
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
