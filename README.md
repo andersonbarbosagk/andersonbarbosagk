@@ -6,7 +6,7 @@ Sou estudante de Ciências da Computação e Técnico em Eletrônica. Estudo des
   <img align="center" alt="Rafa-Js" height="30" width="40" 
  src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+  <img src="file:///C:/Users/ander/Downloads/microsoft-sql-server-logo-svgrepo-com.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  </div>
