@@ -4,11 +4,11 @@ Sou estudante de Ciências da Computação e Técnico em Eletrônica. Estudo des
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" 
- src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg">
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
-  <img src="https://icons8.com.br/icon/laYYF3dV0Iew/microsoft-sql-server" />
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  </div>
 
 ##
@@ -29,5 +29,3 @@ Sou estudante de Ciências da Computação e Técnico em Eletrônica. Estudo des
 </div>
   
  
-
-
