@@ -6,10 +6,8 @@ Sou estudante de Ciências da Computação e Técnico em Eletrônica. Estudo des
   <img align="center" alt="Rafa-Js" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" 
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
-  <img align="center" alt="Rafa-Ts" height="30" width="40" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" />
+   </div>
 
 ##
 
@@ -27,5 +25,3 @@ Sou estudante de Ciências da Computação e Técnico em Eletrônica. Estudo des
   <a href="https://www.linkedin.com/in/anderson-barbosa10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
- 
